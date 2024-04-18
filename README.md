@@ -1,5 +1,5 @@
 ## Hi there!
-### Here you can see how I have created, trained and implemented character recognition model for Gesturea (see: Dearonski/GestureaCode). For this project we have generated our own dataset that contains images of cyrillic letters (see: https://www.kaggle.com/datasets/frznfrg/russian-hadwritten-small-lettrs)
+### Here you can see how I have created, trained and implemented character recognition model for Gesturea (see: ![Static Badge](https://img.shields.io/badge/Gesturea--purple?style=flat&logo=GitHub&link=Dearonski%2FGestureaCode)). For this project we have generated our own dataset that contains images of cyrillic letters (see: ![Static Badge](https://img.shields.io/badge/Kaggle--lightblue?style=flat&logo=Kaggle&link=https%3A%2F%2Fwww.kaggle.com%2Fdatasets%2Ffrznfrg%2Frussian-hadwritten-small-lettrs))
 🧭 Navigation:
 
 1️⃣ baselines.ipynb: some functions used for the draft work (e.g. image recolor, train loop, etc)
